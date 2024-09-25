@@ -2,7 +2,7 @@
 
 2024 빅데이터반 테스트용 저장소(하반기)
 
-#####이름 이메일**  
+##### 이름 이메일
 김진구 jingukim04@gmail.com  
 하정완 wjddhks03@gmail.com  
 유민호 minhoryou@naver.com  
